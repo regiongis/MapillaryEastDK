@@ -1,0 +1,255 @@
+"mapillary_api_name","dansk_tavlekode","tavlekode","tavlekode_kategori"
+"information--general-directions--g1","Vejnavneskilte og stinavneskilte ","n/a","n/a"
+"general--traffic-sign--g1","Husnumre intervalskilte (ofte på stikveje)","n/a","n/a"
+"regulatory--no-parking--g1","Parking forbudt på kørebanen C 62","C 62","forbudstavle"
+"regulatory--keep-right--g1","Påbudt passage højre om D 15 ","D 15","påbudstavle"
+"information--parking--g1","Parkeringsareal udendørs E 33","E 33","oplysningstavle"
+"regulatory--maximum-speed-limit-70--g1","Hastighedsbegræsning 70 km/t C 55 ","C 55","forbudstavle"
+"regulatory--no-stopping--g1","Standsning forbudt C 61","C 61","forbudstavle"
+"regulatory--yield--g1","Ubetinget vigepligt B 11 ","B 11","vigepligtstavle"
+"regulatory--bicycles-only--g1","Cykelsti (+ lille knallert) D 21","D 21","påbudstavle"
+"warning--roadworks--g1","Vejarbejde A 39 ","A 39","advarselstavle"
+"regulatory--maximum-speed-limit-60--g1","Hastighedsbegræsning 60 km/t C 55 ","C 55","forbudstavle"
+"information--highway-interchange--g1","Frakørselsvejviser I 16","I 16","vejvisningstavle"
+"regulatory--no-entry--g1","Indkørsel forbud C 19 ","C 19","forbudstavle"
+"regulatory--shared-path-pedestrians-and-bicycles--g1","Fællesti (gående/cyklister) D 27","D 27","påbudstavle"
+"regulatory--maximum-speed-limit-40--g1","Hastighedsbegræsning 40 km/t C 55 ","C 55","forbudstavle"
+"information--parking--g5","Parkeringsareal udendørs E 33","E 33","oplysningstavle"
+"regulatory--one-way-straight--g1","Lige ud påbudt D 11 1","D 11 1","påbudstavle"
+"regulatory--advisory-maximum-speed-limit--g1","Anbefalet hastighed E 39  (alle talværdier)","E 39","oplysningstavle"
+"regulatory--no-motor-vehicles--g4","Mortorkørsel forbudt C 22 1","C 22 1","forbudstavle"
+"information--living-street--g1","Ophold- og legeområde E51 ","E 51","områdetavle"
+"information--minimum-speed-30--g1","Mindste hastighed 30 km/t D 55","D 55","påbudstavle"
+"information--pedestrians-crossing--g1","Fodgængerfelt E 17","E 17","oplysningstavle"
+"complementary--two-way-traffic--g4","Restriktionen gælder både før og efter tavlen UC 60 1","UC 60 1","undertavle"
+"information--dead-end--g1","Blind vej E 18 (helt blind ikke sti/cykeludgang i enden) ","E 18","oplysningstavle"
+"regulatory--maximum-speed-limit-110--g1","Hastighedsbegræsning 110 km/t C 55","C 55","forbudstavle"
+"information--disabled-persons--g2","Vejledning for handicappede E 23 ","E 23","oplysningstavle"
+"regulatory--one-way-right--g1","Drej til højre påbudt D 11 3","D 11 3","påbudstavle"
+"warning--road-bump--g1","Hastighedsdæmppende bump A 36","A 36","advarselstavle"
+"regulatory--speed-limit-zone--g1","Område med fartdæmpning E 53 (alle hastigheder)","E 54","områdetavle"
+"regulatory--height-limit--g1","Max højde inkl. vognlæs C 42 ","C 42","forbudstavle"
+"complementary--two-way-traffic--g1","Dobbeltrettet cykeltrafik UD 21 1","UD 21 1","undertavle"
+"complementary--chevron-left--g5","Retningspile (mod venstre) O 41","O 41","kanttavle"
+"regulatory--one-way-left--g1","Kørselsretning (firkantet pil venstre)","UD 1","undertavle"
+"regulatory--no-left-turn--g1","Venstresving forbudt C 11 2","C 11 2","forbudstavle"
+"regulatory--one-way-right--g3","Kørselsretning (firkantet pil højre)","UD 1","undertavle"
+"regulatory--no-bicycles--g2","Cykel (+ lille knallert) forbudt - C 25 1","C 25 1","forbudstavle"
+"warning--children--g1","Særlig fare. Børn færdes på eller ved vejen A 22 ","A 22","advarselstavle"
+"regulatory--turn-right--g1","Påbudt kørselsretning D 11 (rundt skilt pil højre)","D 11","påbudstavle"
+"information--minimum-speed-40--g1","Mindste hastighed 40 km/t D 55","D 55","påbudstavle"
+"regulatory--texts-two-lines--g1",NULL,NULL,NULL
+"regulatory--maximum-speed-limit-20--g1","Hastighedsbegræsning 20 km/t C 55","C 55","forbudstavle"
+"regulatory--texts-one-line--g1",NULL,NULL,NULL
+"regulatory--pedestrians-only--g1","Gangsti. Skal benyttes af gående D 22","D 22","påbudstavle"
+"regulatory--no-heavy-goods-vehicles--g2","Lastbil forbudt C 23 1","C 23 1","forbudstavle"
+"information--bicycles-both-ways--g1",NULL,NULL,NULL
+"regulatory--keep-left--g1","Påbudt passage venstre om D 15","D 15","påbudstavle"
+"information--traffic-merges-right--g1","Vognbaneskift E 16 2  (højre side)","E 16 2","oplysningstavle"
+"regulatory--dual-path-bicycles-and-pedestrians--g1","Delt sti D 26 (OBS gående højre cykler venstre)","D 26","påbudstavle"
+"complementary--texts-two-lines--g1",NULL,NULL,NULL
+"regulatory--no-motorcycles--g2","Motorcykel og stor knallert forbudt C 22 2","C 22 2","forbudstavle"
+"regulatory--no-u-turn--g1","Vending forbudt C 12 ","C 12","forbudstavle"
+"warning--bicycles-crossing--g1","Krydsende cyklister (+ lille knallert) A 21","A 21","advarselstavle"
+"regulatory--end-of-pedestrians-only--g1","Ophør af kun gående (gangsti) C XX","C XX","forbudstavle"
+"regulatory--no-heavy-goods-vehicles--g1","Lastbil forbudt C 23 1","C 23 1","forbudstavle"
+"information--disabled-persons--g1","Vejledning for handicappede E 23 ","E 23","oplysningstavle"
+"complementary--chevron-right--g5","Retningspile (mod højre) O 41","O 41","kanttavle"
+"regulatory--end-of-speed-limit-zone--g1","Ophør af område med fartdæmpning E 54 (alle hastigheder)","E 54","områdetavle"
+"warning--other-danger--g1","Anden fare A 99","A 99","advarselstavle"
+"warning--uneven-road--g1","Ujævn vej A 37 ","A 37","advarselstavle"
+"regulatory--road-closed-to-vehicles--g3","Kørsel i begge retninger forbudt C 21","C 21","forbudstavle"
+"warning--road-narrows--g1","Indsnævre vej A 43 1","A 43 1","advarselstavle"
+"regulatory--no-right-turn--g1","Højresving forbudt - C 11","C 11","forbudstavle"
+"information--traffic-merges-left--g1","Vognbaneskift E 16 2  (venstre side)","E 16 2","oplysningstavle"
+"regulatory--weight-limit--g1","Max totalvægt (for hver del i vogntog) C 31 ","C 31","forbudstavle"
+"regulatory--stop--g1","Stop B 13 ","B 13","vigepligtstavle"
+"complementary--turn-left--g2","Ophængt piletavle E 11 (venstre pil firkantet skilt)","E 11","oplysningstavle"
+"regulatory--maximum-speed-limit-30--g1","Hastighedsbegræsning 30 km/t C 55 ","C 55","forbudstavle"
+"regulatory--priority-over-oncoming-vehicles--g1","Modkørende færdsel skal holde tilbage B 19","B 19","vigepligtstavle"
+"regulatory--maximum-speed-limit-50--g1","Hastighedsbegræsning 50 km/t C 55","C 55","forbudstavle"
+"regulatory--maximum-speed-limit-15--g1","Hastighedsbegræsning 15 km/t C 55","C 55","forbudstavle"
+"information--end-of-motorway--g1","Motorvej ophør E 44  ","E 44","områdetavle"
+"regulatory--texts-three-lines--g1","3 linjer text på undertavle","n/a","undertavle"
+"information--rest-area--g1","Rasteplads M 34","M 34","servicetavle"
+"regulatory--end-of-maximum-speed-limit-60--g1","Ophør lokal hastighedsbegrænsning 40 km/t C 56 ","C 56","forbudstavle"
+"regulatory--trams-and-buses-only--g1",NULL,NULL,NULL
+"regulatory--dual-path-pedestrians-and-bicycles--g1","Delt sti D 26 (OBS gående venstre  cykler højre) ","D 26","påbudstavle"
+"warning--loose-road-surface--g1","Særlig fare for løse sten og stenslag A33 ","A 33","advarselstavle"
+"regulatory--no-overtaking--g1","Overhaling forbudt C 51 ","C 51","forbudstavle"
+"warning--road-narrows-right--g1","Indsnævret vej i højre side A 43 3","A 43 3","advarselstavle"
+"information--end-of-built-up-area--g3","Ophør af tættere bebygget område E 56","E 56","områdetavle"
+"regulatory--go-straight--g3","Påbudt kørselsretning D 11 (kør lige ud)","D 11","påbudstavle"
+"information--lodging--g1","Hotel  motel eller kro M 42","M 42","oplysningstavle"
+"complementary--texts-three-lines--g1",NULL,NULL,NULL
+"information--dead-end-except-bicycles--g1","Blind vej E 18 (cykler kan komme igennem)","E 18","oplysningstavle"
+"warning--traffic-signals--g1","Lyssignal forude A 19 ","A 19","advarselstavle"
+"regulatory--turn-right-ahead--g1","Påbudt kørselsretning drej højre forude D 11","D 11","påbudstavle"
+"regulatory--one-way-left--g3","Drej til venstre påbudt D 11 2"," D 11 2","påbudstavle"
+"regulatory--length-limit--g1","Max længde inkl. vogntog med læs C 43 ","C 43","forbudstavle"
+"information--motorway--g1","Motorvej E 42 ","E 42","områdetavle"
+"information--parking--g2","Indendørs parkering E 33","E 33","oplysningstavle"
+"information--built-up-area--g1","Tættere bebygget området E 55","E 55","områdetavle"
+"warning--electricity--g1","Strøm fare","n/a","advarselstavle"
+"complementary--distance--g2","Afstandstavle U 1 ","U 1","undertavle"
+"regulatory--roundabout--g1","Påbudt kørselsretning i rundkørsel D 12 ","D 12","påbudstavle"
+"regulatory--no-buses--g1","Bus forbudt C 23 2","C 23 2","forbudstavle"
+"warning--wild-animals--g1","Dyrevildt A 26 ","A 26","advarselstavle"
+"regulatory--no-buses--g3","Bus forbudt C 23 2","C 23 2","forbudstavle"
+"regulatory--texts-four-lines--g1","4 linjer tekst på undertavle","n/a","undertavle"
+"regulatory--pedestrians-only--g2","Gangsti. Skal benyttes af gående D 22","D 22","påbudstavle"
+"complementary--turn-right--g2","Ophængt piletavle E 11 (højre pil firkantet skilt)","E 11","oplysningstavle"
+"regulatory--no-parking--g2","Parking forbudt på kørebanen C 62","C 62","forbudstavle"
+"regulatory--maximum-speed-limit-40--g3","Hastighedsbegræsning 40 km/t C 55","C 55","forbudstavle"
+"information--camera--g2","Stærekasse eller fartkontrolområder","E 90","oplysningstavle"
+"information--minimum-speed-20--g1","Mindste hastighed 20 km/t D 55","D 55","påbudstavle"
+"warning--roundabout--g1","Rundkørsel forude A 16","A 16","advarselstavle"
+"warning--pedestrians-crossing--g1","Fodgængerfelt forude A 17","A 17","advarselstavle"
+"regulatory--turn-left-ahead--g1","Påbudt kørselsretning drej venstre forude D 11","D 11","påbudstavle"
+"information--end-of-living-street--g1","Ophør af gågåde E 50"," E 50","områdetavle"
+"warning--curve-left--g1","Farligt venstresving A 41 2","A 41 2","advarselstavle"
+"information--limited-access-road--g1","Motortrafikvej E 43","E 43","områdetavle"
+"warning--two-way-traffic--g1","Modkørende færdsel A 18 ","A 18","advarselstavle"
+"regulatory--go-straight--g1","Påbudt kørselsretning D 11 (kør lige ud)","D 11","påbudstavle"
+"regulatory--end-of-no-parking--g1","Ophør af zone med parkeringsforbud E 69","E 69","områdetavle"
+"regulatory--no-motor-vehicle-trailers--g1",NULL,NULL,NULL
+"complementary--detour--g1",NULL,NULL,NULL
+"information--cycling-two-abreast-permitted--g1",NULL,NULL,NULL
+"regulatory--turn-left--g1","Påbudt kørselsretning D 11 (venstre pil)","D 11","påbudstavle"
+"warning--road-narrows-left--g1","Indsnævret vej i venstre side A 43 2","A 43 2","advarselstavle"
+"regulatory--maximum-speed-limit-100--g1","Hastighedsbegræsning 100 km/t C 55","C 55","forbudstavle"
+"regulatory--no-bicycles--g1","Cykel (+ lille knallert) forbudt - C 25 1","C 25 1","forbudstavle"
+"regulatory--no-pedestrians--g2","Fodgængere forbudt - C 26 2","C 26 2","forbudstavle"
+"information--end-of-advisory-maximum-speed-limit-20--g1",NULL,NULL,NULL
+"warning--crossroads--g1","Farligt vejkryds A 11 ","A 11","advarselstavle"
+"complementary--one-direction-left--g1",NULL,NULL,NULL
+"regulatory--end-of-parking-zone--g1","Ophør af parkeringszone E 69","E 69","områdetavle"
+"regulatory--lane-control--g1",NULL,NULL,NULL
+"regulatory--end-of-maximum-speed-limit-40--g1","Ophør lokal hastighedsbegrænsning 40 km/t C 56 ","C 56","forbudstavle"
+"regulatory--no-parking--g3","Parking forbudt på kørebanen C 62","C 62","forbudstavle"
+"regulatory--priority-road--g1","Hovedvej B 16","B 16","vigepligtstavle"
+"complementary--one-direction-right--g1",NULL,NULL,NULL
+"regulatory--pass-on-either-side--g1","Valgfri passage D 16","D 16","påbudstavle"
+"regulatory--end-of-maximum-speed-limit-70--g1","Ophør lokal hastighedsbegrænsning 70 km/t C 56 ","C 56","forbudstavle"
+"regulatory--maximum-speed-limit-80--g1","Hastighedsbegræsning 80 km/t C 55 ","C 55","forbudstavle"
+"regulatory--weight-limit--g5","Max totalvægt (for hver del i vogntog) C 31 ","C 31","forbudstavle"
+"warning--double-curve-first-right--g1","Flere farlige sving  det første til højre A 42 1","A 42 1","advarselstavle"
+"regulatory--no-equestrians--g1","Ridning og føring af hest forbudt  C 26 1","C 26 1","forbudstavle"
+"regulatory--maximum-speed-limit-10--g1","Hastighedsbegræsning 10 km/t C 55","C 55","forbudstavle"
+"warning--bicycles-crossing--g4","Krydsende cyklister (+ lille knallert) A 21","A 21","advarselstavle"
+"warning--steep-descent--g1","Stejl opstigning A 46 2","A 46 2","advarselstavle"
+"regulatory--pass-on-either-side--g2","Valgfri passage D 16","D 16","påbudstavle"
+"complementary--maximum-speed-limit-40--g1",NULL,NULL,NULL
+"warning--accident-area--g1",NULL,NULL,NULL
+"regulatory--text--g1",NULL,NULL,NULL
+"warning--texts--g1",NULL,NULL,NULL
+"regulatory--trucks-only--g1",NULL,NULL,NULL
+"complementary--maximum-speed-limit-10--g1",NULL,NULL,NULL
+"warning--double-curve-first-left--g1","Flere farlige sving  det første til venstre A 42 2","A 42 2","advarselstavle"
+"regulatory--weight-limit-per-tandem-axle--g1","Max tryk på akselgruppe (bogietryk) C 36 ","C 36","forbudstavle"
+"regulatory--no-stopping--g3","Standsning forbudt C 61","C 61","forbudstavle"
+"regulatory--end-of-shared-path-pedestrians-and-bicycles--g1",NULL,NULL,NULL
+"regulatory--turn-right--g3","Påbudt kørselsretning D 11 (rundt skilt pil højre)","D 11","påbudstavle"
+"regulatory--sidewalk-closed--g1",NULL,NULL,NULL
+"information--highway-exit--g1",NULL,NULL,NULL
+"warning--texts--g2",NULL,NULL,NULL
+"regulatory--no-pedestrians--g4","Fodgængere forbudt - C 26 2","C 26 2","forbudstavle"
+"regulatory--end-of-no-overtaking--g1","Overhalingsforbud ophører C 53","C 53","forbudstavle"
+"information--minimum-speed-80--g1","Mindste hastighed 80 km/t D 55","D 55","påbudstavle"
+"regulatory--maximum-speed-limit-35--g2","Hastighedsbegræsning 35 km/t C 55 ","C 55","forbudstavle"
+"warning--slippery-road-surface--g1","Glat vej A 31 ","A 31","advarselstavle"
+"warning--curve-right--g1","Farligt højresving A 41 1","A 41 1","advarselstavle"
+"regulatory--stop--g10","Stop B 13 ","B 13","vigepligtstavle"
+"regulatory--maximum-speed-limit-90--g1","Hastighedsbegræsning 90 km/t C 55 ","C 55","forbudstavle"
+"information--trail-crossing--g3",NULL,NULL,NULL
+"complementary--maximum-speed-limit-30--g1",NULL,NULL,NULL
+"regulatory--trams-only--g1",NULL,NULL,NULL
+"complementary--pass-right--g1",NULL,NULL,NULL
+"complementary--except-vehicles--g1--other",NULL,NULL,NULL
+"regulatory--u-turn--g1",NULL,NULL,NULL
+"complementary--roundabout-go-right--g1--other",NULL,NULL,NULL
+"regulatory--speeding-fines-increased--g1",NULL,NULL,NULL
+"complementary--disabled-persons--g1",NULL,NULL,NULL
+"warning--divided-highway-ends--g3",NULL,NULL,NULL
+"information--motorway-exit-ahead--g3",NULL,NULL,NULL
+"regulatory--maximum-speed-limit-50--g3","Hastighedsbegræsning 50 km/t C 55","C 55","forbudstavle"
+"regulatory--maximum-speed-limit-60--g3","Hastighedsbegræsning 60 km/t C 55 ","C 55","forbudstavle"
+"regulatory--no-mopeds-or-bicycles--g1","Knallertkørsel forbudt C 25 2","C 25 2","forbudstavle"
+"complementary--chevron-left--g2","Retningspile (mod venstre) O 41","O 41","kanttavle"
+"regulatory--road-closed-to-vehicles--g1","Kørsel i begge retninger forbudt C 21","C 21","forbudstavle"
+"information--interstate-route--g1",NULL,NULL,NULL
+"regulatory--no-parking-or-no-stopping--g2",NULL,NULL,NULL
+"information--tunnel--g2",NULL,NULL,NULL
+"complementary--trucks--g1",NULL,NULL,NULL
+"regulatory--give-way-to-oncoming-traffic--g1","Hold tilbage for modkørende B 18","B 18","vigepligtstavle"
+"warning--pedestrians-crossing--g5","Fodgængerfelt forude A 17","A 17","advarselstavle"
+"regulatory--no-motorcycles--g1","Motorcykel og stor knallert forbudt C 22 2","C 22 2","forbudstavle"
+"warning--icy-road--g1","Isglat UA 31","UA 31","undertavle"
+"information--minimum-speed-60--g1","Mindste hastighed 60 km/t D 55","D 55","påbudstavle"
+"regulatory--maximum-speed-limit-30--g3","Hastighedsbegræsning 30 km/t C 55 ","C 55","forbudstavle"
+"information--end-of-built-up-area--g4","Ophør af tættere bebygget område E 56","E 56","områdetavle"
+"regulatory--traffic-signal-photo-enforced--g1",NULL,NULL,NULL
+"regulatory--maximum-speed-limit-15--g3","Hastighedsbegræsning 15 km/t C 55","C 55","forbudstavle"
+"regulatory--no-parking--g4","Parking forbudt på kørebanen C 62","C 62","forbudstavle"
+"regulatory--turn-right-ahead--g2","Påbudt kørselsretning drej højre forude D 11","D 11","påbudstavle"
+"complementary--trucks-go-straight--g1",NULL,NULL,NULL
+"warning--pedestrians-crossing--g4","Fodgængerfelt forude A 17","A 17","advarselstavle"
+"regulatory--stop--g7","Stop B 13 ","B 13","vigepligtstavle"
+"regulatory--stop--g2","Stop B 13 ","B 13","vigepligtstavle"
+"complementary--both-directions--g2","",NULL,NULL
+"complementary--chevron-right--g1","Retningspile (mod højre) O 41","O 41","kanttavle"
+"warning--dangerous-crosswinds-right--g1","Sidevind (vind fra højre)  A 95","A 95","advarselstavle"
+"warning--dangerous-crosswinds-left--g2","Sidevind (vind fra venstre)  A 95","A 95","advarselstavle"
+"warning--offset-roads--g1",NULL,NULL,NULL
+"regulatory--stop--g7--reject",NULL,NULL,NULL
+"regulatory--end-of-trams-only--g1",NULL,NULL,NULL
+"regulatory--state-route--g1",NULL,NULL,NULL
+"regulatory--end-of-maximum-speed-limit--g1",NULL,NULL,NULL
+"information--dead-end-right--g1",NULL,NULL,NULL
+"regulatory--snow-chains--g1",NULL,NULL,NULL
+"regulatory--fine-for-littering--g1",NULL,NULL,NULL
+"regulatory--motorcycles-and-bicycles-only--g1",NULL,NULL,NULL
+"regulatory--bike-route--g1--other",NULL,NULL,NULL
+"information--height-limit--g1",NULL,NULL,NULL
+"information--parking--g4","Parkeringsareal udendørs E 33","E 33","oplysningstavle"
+"complementary--trucks-go-left--g1",NULL,NULL,NULL
+"warning--quay-or-river-bank--g1","Havnekaj A 92","A 92","advarselstavle"
+"regulatory--maximum-speed-limit-20--g3","Hastighedsbegræsning 20 km/t C 55 ","C 55","forbudstavle"
+"regulatory--priority-over-oncoming-vehicles--g2","Modkørende færdsel skal holde tilbage B 19","B 19","vigepligtstavle"
+"regulatory--go-straight-or-turn-left--g1","Påbudt kørselsretning kør lige ud eller drej til venstre D 11 ","D 11","påbudstavle"
+"regulatory--maximum-speed-limit-5--g1","Hastighedsbegræsning 5 km/t C 55 ","C 55","forbudstavle"
+"regulatory--maximum-speed-limit-45--g3","Hastighedsbegræsning 45 km/t C 55","C 55","forbudstavle"
+"regulatory--maximum-speed-limit-25--g2","Hastighedsbegræsning 25 km/t C 55 ","C 55","forbudstavle"
+"warning--railroad-crossing-with-barriers--g1","Jernbaneoverkørsel med bomme A 73","A 73","advarselstavle"
+"warning--railroad-crossing-without-barriers--g3","Jernbaneoverkørsel uden bomme A 72","A 72","advarselstavle"
+"warning--steep-ascent--g1","Stejl nedkørsel A 46 1","A 46 1","advarselstavle"
+"regulatory--stop--g8","Stop B 13 ","B 13","vigepligtstavle"
+"warning--opening-or-swing-bridge--g1","Oplukkelig bro A 91","A 91","advarselstavl"
+"regulatory--bicycles-only--g4","Cykelsti (+ lille knallert) D 21","D 21","påbudstavle"
+"regulatory--bicycles-only--g2","Cykelsti (+ lille knallert) D 21","D 21","påbudstavle"
+"complementary--chevron-left--g1","Retningspile (mod venstre) O 41","O 41","kanttavle"
+"information--highway-reference-location--g1",NULL,NULL,NULL
+"regulatory--end-of-mopeds-and-bicycles-only--g1",NULL,NULL,NULL
+"regulatory--no-parking-bicycles-or-motorcycles--g1",NULL,NULL,NULL
+"regulatory--dual-path-equestrians-and-pedestrians-bicycles--g1",NULL,NULL,NULL
+"regulatory--snow-chains--g2--reject",NULL,NULL,NULL
+"regulatory--buses-only--g1",NULL,NULL,NULL
+"information--living-street--g3",NULL,NULL,NULL
+"warning--tunnel--g1","Tunnel A 44","A 44","advarselstavle"
+"regulatory--radar-enforced--g1",NULL,NULL,NULL
+"information--flight-port--g1",NULL,NULL,NULL
+"information--exit-ahead--g3",NULL,NULL,NULL
+"complementary--railroad--g1--other",NULL,NULL,NULL
+"information--turn-right--g1",NULL,NULL,NULL
+"warning--low-flying-aircraft--g1","Lavtgående fly A 96","A 96","advarselstavle"
+"complementary--distance--g1","Afstandstavle U 1 ","U 1","undertavle"
+"information--end-of-advisory-maximum-speed-limit--g2",NULL,NULL,NULL
+"warning--trucks-rollover--g4",NULL,NULL,NULL
+"warning--pavement-ends--g4",NULL,NULL,NULL
+"information--bike-route--g2",NULL,NULL,NULL
+"complementary--trucks-go-right--g1",NULL,NULL,NULL
+"information--tourism-information--g1",NULL,NULL,NULL
+"information--stop-permitted--g1",NULL,NULL,NULL
+"regulatory--maximum-speed-limit-led-100--g1",NULL,NULL,NULL
+"information--end-of-minimum-speed-40--g1",NULL,NULL,NULL
+"information--end-of-minimum-speed-50--g1--other",NULL,NULL,NULL
